@@ -27,6 +27,3 @@ I focus on **clean, efficient, and maintainable code** — turning ideas into re
 ### 🌐 Connect
 [LinkedIn](https://linkedin.com/in/charleszolina)
 
----
-
-⭐ *“Build secure. Code clean. Stay curious.”*
