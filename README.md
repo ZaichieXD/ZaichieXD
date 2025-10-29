@@ -1,1 +1,32 @@
-I’m a full-stack developer who builds functional, scalable web applications using PHP (Laravel), MySQL, JavaScript, HTML, and CSS. I also work with C# and Unity, creating interactive systems and games that sharpen my problem-solving and design sense. Alongside development, I have a strong foundation in cybersecurity and penetration testing, which helps me write more secure, resilient applications. My projects range from inventory and sales prediction systems to software that integrates machine learning and real-time security features. I focus on writing clean, efficient code and enjoy turning ideas into reliable, well-structured software that blends creativity, security, and real-world use.
+# 👋 Hi, I’m Charles Zolina
+
+I’m a **Full-Stack Developer** passionate about building functional, scalable web applications using **Laravel**, **MySQL**, **JavaScript**, **HTML**, and **CSS**.  
+I also develop in **C#** with **Unity**, creating interactive systems and games that sharpen my design sense and problem-solving skills.  
+
+Alongside development, I have a strong foundation in **cybersecurity and penetration testing**, helping me write more secure and resilient applications.  
+My projects range from **inventory and sales prediction systems** to software integrating **machine learning** and **real-time security features**.
+
+I focus on **clean, efficient, and maintainable code** — turning ideas into reliable, well-structured solutions that blend creativity, security, and practical use.
+
+---
+
+### 🧰 Tech Stack
+**Frontend:** HTML, CSS, JavaScript, Tailwind  
+**Backend:** PHP, Laravel, MySQL, Python, C# (.NET Core)  
+**Other Tools:** Docker, Git, TensorFlow, Scikit-Learn, Unity, Salesforce Apex, SOQL  
+
+---
+
+### 🧠 Cybersecurity & Continuous Learning
+- Practicing on **TryHackMe** and **Hack The Box**  
+- Engaged in real-world testing on **HackerOne** and **BugCrowd**  
+- Learning Salesforce development through **Trailhead** (Apex & SOQL)  
+
+---
+
+### 🌐 Connect
+[LinkedIn](https://linkedin.com/in/charleszolina)
+
+---
+
+⭐ *“Build secure. Code clean. Stay curious.”*
